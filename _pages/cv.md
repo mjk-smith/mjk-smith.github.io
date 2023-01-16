@@ -24,7 +24,7 @@ Work experience
  
 2022 / Spring - Summer / Research Assistant  
   * School of Governance and International Relations, Griffith University  
-    * Provided research assistance for an upcoming biography of Australia’s top civil servant. Focus on policy in practice and continuity and change in administrative decision-making processes in government and private organisations.  
+    * Provided research assistance for an upcoming biography of Australia’s top civil servant with a focus on policy in practice and continuity and change in administrative decision-making processes at both government and private organisations.
  * Supervisor: Professor Emeritus Patrick Weller  
     
 2022 / Winter - Spring / Research Assistant
