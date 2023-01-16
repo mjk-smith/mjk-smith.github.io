@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and Research Assistant at Griffith University specialising in international organisation governance and performance. My current work focuses on multilateral development banks.
+PhD student and Research Assistant at Griffith University specialising in international organisation governance and performance. My current work focuses on multilateral development banks.
   
   
   
