@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student and Research Assistant at Griffith University specialising in international organisations, member hierarchies, and IO performance. specialising in multilateral development banks and the IAEA.
+I am a PhD student and Research Assistant at Griffith University specialising in international organisation governance and performance. My curent work focuses on member politics at multilateral development banks.
   
   
   
