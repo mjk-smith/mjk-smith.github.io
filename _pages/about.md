@@ -10,7 +10,8 @@ redirect_from:
 
 PhD student and Research Assistant specialising in the governance and performance of international organisations. My thesis investigates patterns of delegation and authority at multilateral development banks.
   
-  
+&nbsp;  
+&nbsp;    
   
 #### Recent Activity:
 ##### [IAEA Hierarchies Conference Paper](/talks/2022_09_APSA_IAEA) - Australian National Unviersity, Canberra - [APSA Conference September 2022](https://politicsir.cass.anu.edu.au/events/2022-apsa-annual-conference)
