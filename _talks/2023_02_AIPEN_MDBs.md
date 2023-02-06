@@ -1,7 +1,7 @@
 ---
 title: "Member State Status at Multilateral Development Banks (MDBs)"
 collection: talks
-type: "Talk"
+type: "Workshop"
 permalink: /talks/2023_02_AIPEN_MDBs
 venue: "Australian International Political Economy Network (AIPEN) 2023"
 date: 2023-02-09
