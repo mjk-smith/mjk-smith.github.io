@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student and Research Assistant at Griffith University specialising in the governance and performance of international organisations. My thesis investigates patterns of authority at multilateral development banks.
+PhD student and Research Assistant at Griffith University specialising in the governance and performance of international organisations. My thesis investigates patterns of delegation and authority at multilateral development banks.
   
   
   
