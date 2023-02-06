@@ -10,7 +10,6 @@ redirect_from:
 
 PhD student and Research Assistant specialising in the governance and performance of international organisations. My thesis investigates patterns of delegation and authority at multilateral development banks.
   
-&nbsp;  
 &nbsp;    
   
 #### Recent Activity:
