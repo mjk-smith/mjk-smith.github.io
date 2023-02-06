@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "MJK Smith"
   avatar           : "Thrthr.png"
-  bio              : "Australian PhD Student and Research Assistant. Expertise in international organisation hierarchy and performance."
+  bio              : "Australian PhD Student and Research Assistant."
   location         : # "Australia"
-  employer         : CGPP, Griffith Uni
+  employer         : Griffith University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
