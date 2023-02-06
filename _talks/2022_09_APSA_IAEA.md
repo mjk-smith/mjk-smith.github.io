@@ -1,7 +1,7 @@
 ---
 title: "International Hierarchies at the IAEA:  Status and state practice"
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/2022_09_APSA_IAEA
 venue: "Australian Political Studies Association (APSA) Conference 2022"
 date: 2022-09-26
