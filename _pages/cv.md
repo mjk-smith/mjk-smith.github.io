@@ -17,42 +17,42 @@ Education
 
 Work experience
 ======
-2023 / Autumn - Ongoing / Research Fellow  
+2023 / **Research Fellow** / Autumn - Ongoing
   * Centre for Advancement
     * Providing full-time research support for an upcoming 50th anniversary history of Griffith University, published by Allen & Unwin. 
   * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland, Deputy Director Advancement & Director Alumni Engagement
 
-2022 - 2023 / Spring - Ongoing / Research Assistant  
+2022 - 2023 / **Research Assistant** / Spring - Ongoing 
   * Centre for Governance and Public Policy, Griffith University  
     * Provided research assistance related to an ongoing ARC Future Fellowship project on political party youth wings.
  * Supervisor: Professor Duncan McDonnell 
  
-2022 / Spring - Summer / Research Assistant  
+2022 / **Research Assistant** / Spring - Summer   
   * School of Governance and International Relations, Griffith University  
     * Provided research assistance for an upcoming biography of Australia’s top civil servant with a focus on policy in practice and continuity and change in administrative decision-making processes at both government and private organisations.
  * Supervisor: Professor Emeritus Patrick Weller  
     
-2022 / Winter - Spring / Research Assistant
+2022 / **Research Assistant** / Winter - Spring 
   * School of Governance and International Relations, Griffith University
     * Authored a systematic literature survey and review on the topic of benevolent authoritarianism as part of a project on comparative antidemocratic politics in Southeast and East Asia.
   * Supervisor: Dr. Lee Morgenbesser  
    
-2022 / Winter / Research Assistant
+2022 / **Research Assistant** / Winter 
   * Centre for Governance and Public Policy, Griffith University
     * Documented published contributions of Centre faculty and fellows and compared outputs across comparable Australian political science departments as part of the Centre’s three-year administrative review.
   * Supervisor: Maria Connor  
   
- 2017 - 2021 / Site Supervisor
- * Perth Fringe Festival  
+ 2017 - 2021 / **Site Supervisor** / Summer
+ * Perth Fringe 
     * Managed a team of 25 employees and volunteers across up to nine venues 
  
- 2018 - 2019 / Safety and Wellbeing Advisor
+ 2018 - 2019 / **Safety and Wellbeing Advisor** / Summer - Autumn
  * Office of the Pro Vice-Chancellor (Teaching and Learning), University of Melbourne
    * Authored written reports and briefings to the office of the PVC on student safety and wellbeing policies and outcomes regarding student-delivered orientation programs.
 
 Skills
 ======
-* Academic and professional writing
+* Academic and Professional Writing
   * Editing
   * Fact checking
   * Research support  
@@ -61,7 +61,7 @@ Skills
 * Statistical Analysis and Modelling in R
   * Regression analysis
   * Graphical data analysis (GDA) techniques 
-* Mixed Methods methodologies in Social Sciences
+* Mixed Methods Methodologies in Social Sciences
 
 Talks
 ======
