@@ -17,9 +17,14 @@ Education
 
 Work experience
 ======
+2023 / Autumn - Ongoing / Research Fellow  
+  * Centre for Advancement
+    * Providing full-time research support for an upcoming 50th anniversary history of Griffith University, published by Allen & Unwin. 
+  * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland, Deputy Director Advancement & Director Alumni Engagement
+
 2022 - 2023 / Spring - Ongoing / Research Assistant  
   * Centre for Governance and Public Policy, Griffith University  
-    * Provided research assistance related to an ongoing ARC Future Fellowship project on Australian political party youth wings.
+    * Provided research assistance related to an ongoing ARC Future Fellowship project on political party youth wings.
  * Supervisor: Professor Duncan McDonnell 
  
 2022 / Spring - Summer / Research Assistant  
@@ -47,14 +52,16 @@ Work experience
 
 Skills
 ======
-* Mixed Methods research design
 * Academic and professional writing
-* Statistical Analysis
-* R
-  * Tidyverse
-  * ggplot2
-* Literature reviews
-* Systematic reviews 
+  * Editing
+  * Fact checking
+  * Research support  
+    * Literature reviews
+    * Systematic reviews  
+* Statistical Analysis and Modelling in R
+  * Regression analysis
+  * Graphical data analysis (GDA) techniques 
+* Mixed Methods methodologies in Social Sciences
 
 Talks
 ======
