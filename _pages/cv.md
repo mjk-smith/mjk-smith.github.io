@@ -78,8 +78,7 @@ Publications
    
 Service and leadership
 ======
-* 2023- Ongoing / **Treasurer** / Winter - Ongoing
-  * Brisbane Volleyball Club Inc.
+* 2023- Ongoing / **Treasurer** / Brisbane Volleyball Club Inc.
 * 2022 / **Convenor** / Griffith Koala Collective
 * 2019 - 2022 / **Operations Manager** / Melbourne University Renegades Volleyball Club 
 * 2021 - 2022 / **Competitions Manager** / Melbourne University Renegades Volleyball Club 
