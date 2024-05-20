@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-PhD - Governance and International Relations, Griffith University, 2026 (expected)
+PhD in Governance and International Relations / Griffith University / 2026 (expected)
 
-MA - International Relations, The University of Melbourne, 2021
+MA in International Relations / The University of Melbourne / 2021
 
-BA (Hons. First Class) - History, University of Western Australia, 2018  
+BA (Hons. First Class) in History / University of Western Australia / 2018  
 
 
 Research experience
