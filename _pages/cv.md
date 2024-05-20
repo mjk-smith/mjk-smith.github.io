@@ -52,7 +52,7 @@ Research experience
 
 Work experience
 ======
-2019 - 2023 / **Officer in Charge / AEC Elections Assistant** / Various
+2019 - 2023 / **Officer in Charge and AEC Elections Assistant** / Various
  * Australian Electoral Commission
    *  Various Duties: Officer in Charge (Moreton), Officer in Charge (Griffith), Mobile Elections Assistant / Troubleshooter. Managing a team of ~10 officials and polling officers in carrying out elections duties.
  
