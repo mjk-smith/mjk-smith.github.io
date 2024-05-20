@@ -78,10 +78,20 @@ Publications
    
 Service and leadership
 ======
-* 2023- Ongoing / **Treasurer** / Brisbane Volleyball Club Inc.
-* 2022 / **Convenor** / Griffith Koala Collective
+* 2023 - Ongoing / **Treasurer** / Brisbane Volleyball Club Inc.
+* 2022 - Ongoing / **Convenor** / Griffith Koala Collective
 * 2019 - 2022 / **Operations Manager** / Melbourne University Renegades Volleyball Club 
 * 2021 - 2022 / **Competitions Manager** / Melbourne University Renegades Volleyball Club 
 * 2018 - 2019 / **General Secretary** / Melbourne University Postgraduate IR Organisation 
 * 2017 - 2018 / **Program Coordinator** / Edmund Rice Camps
 * 2017 - 2018 / **Education Editor** / Pelican Magazine
+
+Extracurricular
+======
+* 2023 - Ongoing / **Queensland Pirates** / Scape Australian Volleyball SuperLeague
+* 2022 / **Cycled Brisbane to Cairns** / Leisure
+* 2021 / **Victorian Vipers** / Australian Volleyball League
+* 2020 / **Cycled Perth to Melbourne** / Leisure
+* 2018 - 19 / **Victorian UniBlues** / Australian Volleyball League
+* 2013 - 2016 / **Western Australian Hornets** / Australian Volleyball League
+* 2016 / **Cycled Amsterdam to Athens** / Leisure
