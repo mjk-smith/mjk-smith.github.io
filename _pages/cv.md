@@ -11,18 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.A. (Hons. First Class) in History, University of Western Australia, 2018
-* M.A. in International Relations, The University of Melbourne, 2021
-* Ph.D in Governance and International Relations, Griffith University, 2025 (expected)
+PhD - Governance and International Relations, Griffith University, 2026 (expected)
 
-Work experience
+MA - International Relations, The University of Melbourne, 2021
+
+BA (Hons. First Class) - History, University of Western Australia, 2018  
+
+
+Research experience
 ======
-2023 / **Research Fellow** / Autumn - Ongoing
-  * Centre for Advancement
+2023 / **Researcher** / Autumn - Ongoing
+  * Centre for Advancement, Griffith University
     * Providing full-time research support for an upcoming 50th anniversary history of Griffith University, published by Allen & Unwin. 
   * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland, Deputy Director Advancement & Director Alumni Engagement
 
-2022 - 2023 / **Research Assistant** / Spring - Ongoing 
+2022 - 2023 / **Research Assistant** / Spring - Summer
   * Centre for Governance and Public Policy, Griffith University  
     * Provided research assistance related to an ongoing ARC Future Fellowship project on political party youth wings.
  * Supervisor: Professor Duncan McDonnell 
@@ -41,27 +44,25 @@ Work experience
   * Centre for Governance and Public Policy, Griffith University
     * Documented published contributions of Centre faculty and fellows and compared outputs across comparable Australian political science departments as part of the Centre’s three-year administrative review.
   * Supervisor: Maria Connor  
-  
- 2017 - 2021 / **Site Supervisor** / Summer
- * Perth Fringe 
-    * Managed a team of 25 employees and volunteers across up to nine venues 
+
+2013 / **Research Intern** / Spring - Summer
+  * School of Veterinary and Life Sciences, Murdoch University
+    * Assisted in conducting field research into the health of Little Penguin populations on Garden Island and Penguin Island off the coast of Western Australia.
+  * Supervisor: Dr Belinda Cannell 
+
+Work experience
+======
+2019 - 2023 / **Officer in Charge / AEC Elections Assistant** / Various
+ * Australian Electoral Commission
+   *  Various Duties: Officer in Charge (Moreton), Officer in Charge (Griffith), Mobile Elections Assistant / Troubleshooter. Managing a team of ~10 officials and polling officers in carrying out elections duties.
  
  2018 - 2019 / **Safety and Wellbeing Advisor** / Summer - Autumn
  * Office of the Pro Vice-Chancellor (Teaching and Learning), University of Melbourne
    * Authored written reports and briefings to the office of the PVC on student safety and wellbeing policies and outcomes regarding student-delivered orientation programs.
 
-Skills
-======
-* Academic and Professional Writing
-  * Editing
-  * Fact checking
-  * Research support  
-    * Literature reviews
-    * Systematic reviews  
-* Statistical Analysis and Modelling in R
-  * Regression analysis
-  * Graphical data analysis (GDA) techniques 
-* Mixed Methods Methodologies in Social Sciences
+ 2017 - 2021 / **Site Supervisor** / Various
+ * Perth Fringe / Artrage Inc.
+    * Managed a team of 25 employees and volunteers across up to nine venues 
 
 Talks
 ======
@@ -75,12 +76,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    
- 
 Service and leadership
 ======
-* 2022 | Convenor | Griffith Koala Collective
-* 2019 - 2022 | Operations Manager | Melbourne University Renegades Volleyball Club 
-* 2021 - 2022 | Social Competitions Manager | Melbourne University Renegades Volleyball Club 
-* 2018 - 2019 | General Secretary | Melbourne University Postgraduate IR Organisation 
-* 2017 - 2018 | Program Coordinator | Edmund Rice Camps
-* 2017 - 2018 | Education Editor | Pelican Magazine
+* 2023- Ongoing / **Treasurer** / Winter - Ongoing
+  * Brisbane Volleyball Club Inc.
+* 2022 / **Convenor** / Griffith Koala Collective
+* 2019 - 2022 / **Operations Manager** / Melbourne University Renegades Volleyball Club 
+* 2021 - 2022 / **Competitions Manager** / Melbourne University Renegades Volleyball Club 
+* 2018 - 2019 / **General Secretary** / Melbourne University Postgraduate IR Organisation 
+* 2017 - 2018 / **Program Coordinator** / Edmund Rice Camps
+* 2017 - 2018 / **Education Editor** / Pelican Magazine
