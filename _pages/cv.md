@@ -66,7 +66,7 @@ Work experience
    * Authored written reports and briefings to the office of the PVC on student safety and wellbeing policies and outcomes regarding student-delivered orientation programs.
 
  2017 - 2021 / **Site Supervisor** / Various
- * Perth Fringe / Artrage Inc.
+ * Perth Fringe and Artrage Inc.
     * Managed a team of 25 employees and volunteers across up to nine venues 
 
 Talks
