@@ -48,7 +48,7 @@ Research experience
 2022 / **Research Assistant** / Winter 
   * Centre for Governance and Public Policy, Griffith University
     * Documented published contributions of Centre faculty and fellows and compared outputs across comparable Australian political science departments as part of the Centre’s three-year administrative review.
-  * Supervisor: Maria Connor  
+  * Supervisor: Ms. Maria Connor  
 
 2013 / **Research Intern** / Spring - Summer
   * School of Veterinary and Life Sciences, Murdoch University
