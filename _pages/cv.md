@@ -20,10 +20,15 @@ BA (Hons. First Class) in History / University of Western Australia / 2018
 
 Research experience
 ======
-2023 / **Researcher** / Autumn - Ongoing
+2023 - 2024 / **Researcher** / Autumn - Ongoing
   * Centre for Advancement, Griffith University
     * Providing full-time research support for an upcoming 50th anniversary history of Griffith University, published by Allen & Unwin. 
   * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland, Deputy Director Advancement & Director Alumni Engagement
+
+2024 / **Editorial Assistant** / Autumn - Winter
+  * Centre for Governance and Public Policy, Griffith University  
+    * Provided editorial assistance related to an upcoming monmograph on international nuclear technology competition and cooperation.
+ * Supervisor: Professor Yi-chong Xu
 
 2022 - 2023 / **Research Assistant** / Spring - Summer
   * Centre for Governance and Public Policy, Griffith University  
