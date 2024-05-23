@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student and Research Assistant specialising in the governance and performance of international organisations. My thesis investigates formal and informal patterns of delegation and authority at multilateral development banks.
+PhD student and Research Assistant specialising in the governance and performance of international organisations. My thesis investigates formal and informal patterns of delegation and authority at multilateral development banks. In my leisure time I enjoy volunteering, volleyball and endurance cycling.
   
 &nbsp;    
   
