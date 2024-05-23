@@ -55,6 +55,18 @@ Research experience
     * Assisted in conducting field research into the health of Little Penguin populations on Garden Island and Penguin Island off the coast of Western Australia.
   * Supervisor: Dr Belinda Cannell 
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 2019 - 2023 / **Officer in Charge and AEC Elections Assistant** / Various
@@ -68,19 +80,7 @@ Work experience
  2017 - 2021 / **Site Supervisor** / Various
  * Perth Fringe and Artrage Inc.
     * Managed a team of 25 employees and volunteers across up to nine venues 
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   
+  
 Service and leadership
 ======
 * 2023 - Ongoing / **Treasurer** / Brisbane Volleyball Club Inc.
