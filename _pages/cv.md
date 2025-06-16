@@ -99,7 +99,7 @@ Extracurricular
 * 2023 - Ongoing / **Queensland Pirates** / Scape Australian Volleyball SuperLeague
 * 2021 / **Victorian Vipers** / Australian Volleyball League
 * 2018 - 19 / **Victorian UniBlues** / Australian Volleyball League
-* 2013 - 2016 / **Western Australian Hornets** / Australian Volleyball League
+* 2013 - 16 / **Western Australian Hornets** / Australian Volleyball League
 * 2022 / **Cycled Brisbane to Cairns** / Leisure
 * 2020 / **Cycled Perth to Melbourne** / Leisure
 * 2016 / **Cycled Amsterdam to Athens** / Leisure
