@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-PhD in Governance and International Relations / Griffith University / 2026 (expected)
+(Incomplete) PhD in Governance and International Relations / Griffith University / 2022-2024
 
 MA in International Relations / The University of Melbourne / 2021
 
@@ -20,10 +20,14 @@ BA (Hons. First Class) in History / University of Western Australia / 2018
 
 Research experience
 ======
-2023 - 2024 / **Researcher** / Autumn - Ongoing
+2024-2025 / **Frelance Academic Editor** / Spring - Winter
+  * Self-employed
+    *   Providing freelance academic editing and research support services in Australia and internationally within the humanities and social sciences.
+      
+2023 - 2024 / **Researcher** / Autumn - Spring
   * Centre for Advancement, Griffith University
     * Providing full-time research support for an upcoming 50th anniversary history of Griffith University, published by Allen & Unwin. 
-  * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland, Deputy Director Advancement & Director Alumni Engagement
+  * Supervisors: Professor Emeritus Patrick Weller and Joanne Nyland (Deputy Director Advancement & Director Alumni Engagement)
 
 2024 / **Editorial Assistant** / Autumn - Winter
   * Centre for Governance and Public Policy, Griffith University  
@@ -69,9 +73,9 @@ Publications
 
 Work experience
 ======
-2019 - 2023 / **Officer in Charge and AEC Elections Assistant** / Various
+2019 - 2025 / **Officer in Charge and AEC Elections Assistant** / Various
  * Australian Electoral Commission
-   *  Various Duties: Officer in Charge (Moreton), Officer in Charge (Griffith), Mobile Elections Assistant / Troubleshooter. Managing a team of ~10 officials and polling officers in carrying out elections duties.
+   *  Various Duties: Officer in Charge (Lilley), Officer in Charge (Moreton), Officer in Charge (Griffith), Mobile Elections Assistant / Troubleshooter. Managing a team of ~15 officials and polling officers in carrying out elections duties.
  
  2018 - 2019 / **Safety and Wellbeing Advisor** / Summer - Autumn
  * Office of the Pro Vice-Chancellor (Teaching and Learning), University of Melbourne
@@ -84,7 +88,7 @@ Work experience
 Service and leadership
 ======
 * 2023 - Ongoing / **Treasurer** / Brisbane Volleyball Club Inc.
-* 2022 - Ongoing / **Convenor** / Griffith Koala Collective
+* 2022 - 2024 / **Convenor** / Griffith Koala Collective
 * 2019 - 2022 / **Operations Manager** / Melbourne University Renegades Volleyball Club 
 * 2021 - 2022 / **Competitions Manager** / Melbourne University Renegades Volleyball Club 
 * 2018 - 2019 / **General Secretary** / Melbourne University Postgraduate IR Organisation 
