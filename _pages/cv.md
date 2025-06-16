@@ -21,8 +21,7 @@ BA (Hons. First Class) in History / University of Western Australia / 2018
 Research experience
 ======
 2024-2025 / **Frelance Academic Editor** / Spring - Winter
-  * Self-employed
-    *   Providing freelance academic editing and research support services in Australia and internationally within the humanities and social sciences.
+    *   Freelance academic editing and research support services in Australia and internationally within the humanities and social sciences.
       
 2023 - 2024 / **Researcher** / Autumn - Spring
   * Centre for Advancement, Griffith University
